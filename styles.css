@@ -1,0 +1,162 @@
+.HeadText{
+    text-align: center;
+  }
+  
+  .container{
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  .Colorcontainer {
+    width: 100%;
+  }
+  
+  .fontcontainer{
+    width: 100%;
+  }
+  
+  .fontpanel{
+    width: 20%;
+    display: inline-block;
+  }
+  
+  .colortext{
+    color: white;
+    text-align: center;
+  }
+  .ColorBlue{
+    background-color: hsl(233, 77%, 66%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  .ColorGreen{
+    background-color: hsl(124, 55%, 55%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .ColorRed{
+    background-color: hsl(0, 79%, 32%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .ColorOrange{
+    background-color: hsl(0, 79%, 32%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  .ColorBlue2{
+    background-color: hsl(231, 73%, 29%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  .ColorGreen2{
+    background-color: hsl(145, 73%, 29%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .ColorRed2{
+    background-color: hsl(359, 99%, 35%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .ColorOrange2{
+    background-color: hsl(42, 76%, 55%);
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  .maintext .birthstone{
+    font-family: 'Birthstone', cursive;
+  }
+  
+  .maintext {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .ephesis{
+    font-family: 'Ephesis', cursive;
+  }
+  
+  .gluten{
+    font-family: 'Gluten', cursive;
+  }
+  .DancingScript{
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  .akronim{
+    font-family: 'Akronim', cursive;
+  }
+  
+  .normaltext{
+    font-style: normal;  
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .italics {
+    font-style: italic;
+  }
+  
+  #Heavy{
+    font-weight: 900;
+  }
+  
+  #Bold{
+    font-weight: bold;
+    text-decoration: line-through;
+  }
+  
+  #Italics{
+    font-style: italic;
+  }
+  
+  #Lspace{
+    letter-spacing: 0.5em;
+  }
+  
+  #Wspace{
+    word-spacing: 1em;
+  }
+  
+  #Lalign{
+    text-align: left;
+  }
+  
+  #Calign{
+    text-align: center;
+  }
+  
+  #Ralign{
+    text-align: right;
+  }
